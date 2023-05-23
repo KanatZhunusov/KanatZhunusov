@@ -80,10 +80,10 @@
 
 - [Чек-листы](https://github.com/KanatZhunusov/check-lists.git)
 - [Тест-кейсы](https://github.com/KanatZhunusov/test-cases.git)
-- Баг-репорты
-- План-тестирования
-- Отчет о тестировании
-- Коллекции Postman 
-- Базы Данных SQL
-- Перехват трафика через Charles Proxy
-- Команды bash
+- [Баг-репорты](https://github.com/KanatZhunusov/bug-reports.git)
+- [План-тестирования]()
+- [Отчет о тестировании]()
+- [Коллекции Postman]() 
+- [Базы Данных SQL]()
+- [Перехват трафика через Charles Proxy]()
+- [Команды bash]()
