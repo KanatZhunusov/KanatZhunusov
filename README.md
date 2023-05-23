@@ -82,7 +82,7 @@
 - [Тест-кейсы](https://github.com/KanatZhunusov/test-cases.git)
 - [Баг-репорты](https://github.com/KanatZhunusov/bug-reports.git)
 - [Тест-план](https://github.com/KanatZhunusov/test-plan.git)
-- [Отчет о тестировании]()
+- [Отчет о тестировании](https://github.com/KanatZhunusov/test-result-report.git)
 - [Коллекции Postman]() 
 - [Базы Данных SQL]()
 - [Перехват трафика через Charles Proxy]()
