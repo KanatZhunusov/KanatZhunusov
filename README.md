@@ -85,5 +85,5 @@
 - [Отчет о тестировании](https://github.com/KanatZhunusov/test-result-report.git)
 - [Коллекции Postman](https://github.com/KanatZhunusov/Postman-collections.git) 
 - [Базы Данных SQL](https://github.com/KanatZhunusov/SQL.git)
-- [Перехват трафика через Charles Proxy]
+- [Перехват трафика через Charles Proxy](https://github.com/KanatZhunusov/Charles-Proxy.git)
 - [Команды bash]
