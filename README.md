@@ -81,7 +81,7 @@
 - [Чек-листы](https://github.com/KanatZhunusov/check-lists.git)
 - [Тест-кейсы](https://github.com/KanatZhunusov/test-cases.git)
 - [Баг-репорты](https://github.com/KanatZhunusov/bug-reports.git)
-- [План-тестирования]()
+- [Тест-план]()
 - [Отчет о тестировании]()
 - [Коллекции Postman]() 
 - [Базы Данных SQL]()
