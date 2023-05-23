@@ -86,4 +86,4 @@
 - [Коллекции Postman](https://github.com/KanatZhunusov/Postman-collections.git) 
 - [Базы Данных SQL](https://github.com/KanatZhunusov/SQL.git)
 - [Перехват трафика через Charles Proxy](https://github.com/KanatZhunusov/Charles-Proxy.git)
-- [Команды bash]
+- [Команды bash](https://github.com/KanatZhunusov/Bash_commands.git)
