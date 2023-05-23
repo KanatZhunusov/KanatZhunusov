@@ -84,6 +84,6 @@
 - [Тест-план](https://github.com/KanatZhunusov/test-plan.git)
 - [Отчет о тестировании](https://github.com/KanatZhunusov/test-result-report.git)
 - [Коллекции Postman](https://github.com/KanatZhunusov/Postman-collections.git) 
-- [Базы Данных SQL]()
-- [Перехват трафика через Charles Proxy]()
-- [Команды bash]()
+- [Базы Данных SQL]
+- [Перехват трафика через Charles Proxy]
+- [Команды bash]
