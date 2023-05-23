@@ -16,7 +16,7 @@
 - Коммуникабельность и способность работать в команде, взаимодействуя с разработчиками, дизайнерами и управляющими проектами.
 - Знание популярных инструментов и технологий в области тестирования.
 
-📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@zhunusov-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/zhunusov/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](zhunusov787@gmail.com)
+📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@zhunusov-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/zhunusov/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:zhunusov787@gmail.com)
 
 ---
 
