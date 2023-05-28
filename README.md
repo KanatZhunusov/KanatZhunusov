@@ -16,7 +16,10 @@
 - Коммуникабельность и способность работать в команде, взаимодействуя с разработчиками, дизайнерами и управляющими проектами.
 - Знание популярных инструментов и технологий в области тестирования.
 
-📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@zhunusov-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/zhunusov/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.zhunusov@gmail.com)
+📫 Мои контакты: 
+
+[![LinkedIn Badge](https://img.shields.io/badge/-@zhunusov-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/zhunusov/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.zhunusov@gmail.com)
 
 ---
 
@@ -96,7 +99,7 @@
 - [Коллекции Postman](https://github.com/KanatZhunusov/Postman-collections.git) 
 - [Базы Данных SQL](https://github.com/KanatZhunusov/SQL.git)
 - [Перехват трафика через Charles Proxy](https://github.com/KanatZhunusov/Charles-Proxy.git)
-- [Команды bash](https://github.com/KanatZhunusov/Bash_commands.git)
+- [Команды Bash](https://github.com/KanatZhunusov/Bash_commands.git)
 
 ---
 
