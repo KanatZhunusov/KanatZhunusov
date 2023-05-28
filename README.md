@@ -86,7 +86,7 @@
 
 ---
 
-### 📁 Тестовые артефакты:
+### 📚 Тестовые артефакты:
 
 - [Чек-листы](https://github.com/KanatZhunusov/check-lists.git)
 - [Тест-кейсы](https://github.com/KanatZhunusov/test-cases.git)
@@ -97,3 +97,9 @@
 - [Базы Данных SQL](https://github.com/KanatZhunusov/SQL.git)
 - [Перехват трафика через Charles Proxy](https://github.com/KanatZhunusov/Charles-Proxy.git)
 - [Команды bash](https://github.com/KanatZhunusov/Bash_commands.git)
+
+---
+
+### 📝 [Мое резюме](https://github.com/KanatZhunusov/CV.git) 
+
+
