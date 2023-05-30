@@ -18,7 +18,7 @@
 
 📫 Мои контакты: 
 
-[![LinkedIn Badge](https://img.shields.io/badge/-@zhunusov-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/zhunusov/)
+[![LinkedIn Badge](https://img.shields.io/badge/-@zhunusov-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kanat-zhunusov/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.zhunusov@gmail.com)
 
 ---
