@@ -105,4 +105,7 @@
 
 ### 📝 [Мое резюме](https://github.com/KanatZhunusov/CV.git) 
 
+---
+
+### 🎓 [Сертификат](https://github.com/KanatZhunusov/Certificate.git) 
 
